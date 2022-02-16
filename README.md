@@ -1,7 +1,7 @@
 # Food-Additives-Browser
 
 
-**This project is a work in progress. In its current state, it contains all features initially planned for it but I want to expand its features as I become more familiar with using Pandas and TKinter.**
+**This project is a work in progress. In its current state, it contains all features initially planned but I want to expand its scope as I become more familiar with using Pandas and TKinter.**
 
 
 Description:
